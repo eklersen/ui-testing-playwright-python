@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","Rozetka: Smoke search (flaky because of Cloudflare)","tests","2026-02-15","skipped","2026-02-15","","test_rozetka_(smoke)","",""
+"","465","Demo: Open login page","tests","2026-02-15","passed","2026-02-15","","test_demo_01_open_login","",""
+"","324","Demo: Successful login opens inventory","tests","2026-02-15","passed","2026-02-15","","test_demo_03_login_success","",""
+"","323","Demo: Invalid login shows error","tests","2026-02-15","passed","2026-02-15","","test_demo_02_invalid_login","",""
+"","363","Demo: Add first item to cart increases counter","tests","2026-02-15","passed","2026-02-15","","test_demo_04_add_to_cart","",""
